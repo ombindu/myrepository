@@ -1,0 +1,9 @@
+{
+	"name": "ADFDFBIN",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcbc0b8c-9ac5-40a9-88ca-276fef4ba8c8",
+		"tenantId": "e433d554-19db-4123-a5e3-f90238d7a6a6"
+	}
+}
