@@ -1,0 +1,12 @@
+{
+	"name": "ls_AzureSqlDatabase",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sqlserverbndu.database.windows.net;initial catalog=DB_SQL_BIN;user id=sqlserverbndu",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDE4RDM4QzRDLUNGNjktNEQxRS1BMUMwLTBDNjVCMDk3NEUzMF85OTBmMjYyOC1mYTFkLTRmYjQtYjBjYy1iN2I1ZDQzMDljZDUiDQp9"
+		}
+	}
+}
